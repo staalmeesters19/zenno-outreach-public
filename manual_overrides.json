@@ -1,0 +1,28 @@
+{
+  "_comment": "Manual overrides — survive auto-refresh. Keyed on lowercased lead email. Set next_action/status/tone/sent_date to non-null to override the Gmail-derived value. Example below shows the high-touch leads where Abdul/Hamza have explicit follow-ups planned.",
+
+  "info@hookipabeach.nl": {
+    "next_action": "BBQ-datum prikken, hij was net in Marokko (Tamraght/Imsouane). Voorgesteld Zoom + zomer-koffie."
+  },
+  "info@noordpiersurf.com": {
+    "next_action": "Susanne bevestigde Christophe-doorverwijzing. Hamza belt Christophe op het strand deze week. Wacht op terugkoppeling."
+  },
+  "info@surfschoolcastricum.com": {
+    "next_action": "Donderdag in Castricum langs of bellen — Abdul gaf tel 0642206839."
+  },
+  "info@gosurfingterschelling.nl": {
+    "next_action": "Bellen of zoom inplannen, concreet maken wat we doen."
+  },
+  "info@mm-sup.com": {
+    "next_action": "Ma of wo afspraak inplannen — Calendly gestuurd, Morene wil kennismaken."
+  },
+  "info@wake-park.nl": {
+    "next_action": "Hannes wil GEEN online meeting — kom langs in Roermond of stuur concreet voorstel."
+  },
+  "info@bohemianbirds.com": {
+    "next_action": "Dilana ontving info-mail 13/5 — dialoog loopt voor lustrum/incentive-groepen. Wacht op terugkoppeling intern team."
+  },
+  "info@zestfamily.it": {
+    "next_action": "HOT: Gianluca vroeg 12 mei tarieven per persoon — reply staat sinds 12 mei 14:52 te wachten."
+  }
+}
