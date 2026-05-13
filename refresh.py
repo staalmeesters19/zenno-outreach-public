@@ -369,13 +369,10 @@ def git_push_if_changed():
     if not token:
         raise RuntimeError("GITHUB_TOKEN env var not set — cannot push.")
 
-    remote = subprocess.run(
-        ["git", "remote", "get-url", "origin"],
-        cwd=repo_dir, capture_output=True, text=True,
-    ).stdout.strip()
-    # https://github.com/owner/repo.git → https://x-access-token:TOKEN@github.com/owner/repo.git
-    auth_remote = remote.replace("https://", f"https://x-access-token:{token}@")
-    subprocess.run(["git", "push", auth_remote, "main"], cwd=repo_dir, check=True)
+    # Render Cron Job checkout is detached HEAD without `origin` remote, so we
+    # hardcode the public-repo URL and push HEAD:main explicitly.
+    auth_remote = f"https://x-access-token:{token}@github.com/staalmeesters19/zenno-outreach-public.git"
+    subprocess.run(["git", "push", auth_remote, "HEAD:main"], cwd=repo_dir, check=True)
     print(f"Pushed: {msg}")
 
 
