@@ -1,0 +1,22 @@
+services:
+  - type: cron
+    name: zenno-dashboard-refresh
+    runtime: python
+    region: frankfurt
+    schedule: "7 */6 * * *"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python refresh.py
+    plan: starter
+    envVars:
+      - key: GMAIL_REFRESH_TOKEN
+        sync: false
+      - key: GMAIL_CLIENT_ID
+        sync: false
+      - key: GMAIL_CLIENT_SECRET
+        sync: false
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: GIT_USER_EMAIL
+        value: zennosurf-bot@github-actions
+      - key: GIT_USER_NAME
+        value: Zenno Refresh Bot

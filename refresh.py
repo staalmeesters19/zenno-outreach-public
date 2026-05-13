@@ -1,6 +1,7 @@
 """Refresh script: query Gmail, update status, rebuild masked dashboard.
 
-Runs in GitHub Actions every 6h via .github/workflows/refresh.yml.
+Runs via Render Cron Job every 6h. After rebuilding the dashboard, auto-commits
+and pushes changed files back to the GitHub repo using GITHUB_TOKEN env var.
 
 Inputs:
   - GMAIL_REFRESH_TOKEN / GMAIL_CLIENT_ID / GMAIL_CLIENT_SECRET (env)
@@ -331,5 +332,51 @@ def main():
     print(f"[{datetime.now(timezone.utc).isoformat()}] Refresh complete.")
 
 
+def git_push_if_changed():
+    """Auto-commit + push if data_status.json or index.html veranderde."""
+    repo_dir = SCRIPT_DIR
+
+    # Configure git identity (Render context)
+    subprocess.run(
+        ["git", "config", "user.email", os.environ.get("GIT_USER_EMAIL", "bot@example.com")],
+        cwd=repo_dir, check=True,
+    )
+    subprocess.run(
+        ["git", "config", "user.name", os.environ.get("GIT_USER_NAME", "Refresh Bot")],
+        cwd=repo_dir, check=True,
+    )
+
+    # Check for changes
+    result = subprocess.run(
+        ["git", "status", "--porcelain"],
+        cwd=repo_dir, capture_output=True, text=True,
+    )
+    if not result.stdout.strip():
+        print("No changes to commit.")
+        return
+
+    # Stage known output files
+    for fname in ["data_status.json", "index.html", "dashboard-public.html"]:
+        subprocess.run(["git", "add", fname], cwd=repo_dir)
+
+    msg = f"Auto-refresh dashboard {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}"
+    subprocess.run(["git", "commit", "-m", msg], cwd=repo_dir, check=True)
+
+    # Push using PAT (GITHUB_TOKEN env var)
+    token = os.environ.get("GITHUB_TOKEN")
+    if not token:
+        raise RuntimeError("GITHUB_TOKEN env var not set — cannot push.")
+
+    remote = subprocess.run(
+        ["git", "remote", "get-url", "origin"],
+        cwd=repo_dir, capture_output=True, text=True,
+    ).stdout.strip()
+    # https://github.com/owner/repo.git → https://x-access-token:TOKEN@github.com/owner/repo.git
+    auth_remote = remote.replace("https://", f"https://x-access-token:{token}@")
+    subprocess.run(["git", "push", auth_remote, "main"], cwd=repo_dir, check=True)
+    print(f"Pushed: {msg}")
+
+
 if __name__ == "__main__":
     main()
+    git_push_if_changed()
