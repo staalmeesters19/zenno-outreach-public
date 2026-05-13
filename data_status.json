@@ -1,583 +1,548 @@
 {
-  "beachclub@natural-high.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
+  "\"van der ham": {
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-04-20",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "abdul.malik@agyle.nl": {
+    "status": "replied",
+    "tone": "positive",
+    "sent_date": "2026-05-13",
+    "next_action": null,
+    "reply_snippet": "We zouden ook eventueel kunnen langskomen als dat beter werkt , het is niet zo ver ;) Met vriendelijke groet, Abdul Malik DIRECTOR AND FOUNDER abdul.malik@agyle.nl Veldzigt 2, Utrecht agyle.nl | +"
+  },
+  "alana@exploristatravel.nl": {
+    "status": "replied",
+    "tone": "positive",
+    "sent_date": "2026-04-21",
+    "next_action": null,
+    "reply_snippet": "Hi Abdul, Bedankt voor je mail! Leuk dat jullie een surfhuis hebben opgezet in Taghazout. We zijn momenteel bezig met de reizen voor 2027 en we willen zeker weer een surfreis aanbieden. We zijn nog"
+  },
+  "anfrage@erlebnisrundreisen.de": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "anne@avontuur.nu": {
+    "status": "replied",
+    "tone": "positive",
+    "sent_date": "2026-04-20",
+    "next_action": null,
+    "reply_snippet": "Beste Abdul, Dank voor je mailtje, leuk dat je aan Shoestring denkt! Ik vind jullie initiatief ontzettend sympathiek, het ziet er goed uit! Maar ik denk niet dat wij de juiste optie zijn voor een"
+  },
+  "aramalik786@gmail.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-13",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "beachclub@natural-high.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": null
   },
   "bestuur@dwvhardboard.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
   },
   "bestuur@eswvweth.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
   },
   "booking@surfweek.it": {
-    "next_action": "EMAIL BOUNCE 12 mei — adres bestaat niet. Verifieer alternatief contact.",
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "replied",
-    "tone": "bounce"
+    "tone": "bounce",
+    "sent_date": "2026-05-12",
+    "next_action": "EMAIL BOUNCE — adres bestaat niet of mailbox vol.",
+    "reply_snippet": "Address not found Your message wasn&#39;t delivered to booking@surfweek.it because the address couldn&#39;t be found, or is unable to receive mail. LEARN MORE The response was: 550 5.1.1 The email"
   },
-  "contact@brunottisurfcamps.com": {
+  "contact@adekua.fr": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
+  },
+  "contact@copinesdevoyage.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
   },
   "delian@retreatyourself.nu": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-04-17",
     "status": "sent-no-reply",
-    "tone": null
-  },
-  "frieda@supawayheerenveen.nl": {
+    "tone": null,
+    "sent_date": "2026-05-11",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
+  },
+  "discover@wainando.de": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "gossmit@hotmail.com": {
+    "status": "replied",
+    "tone": "positive",
+    "sent_date": "2026-05-13",
+    "next_action": null,
+    "reply_snippet": "Eey Joost en Abdul, Hoe groter het board hoe sneller iedereen staat hè😉 Waar willen jullie het precies over hebben? Koffie wordt lastig denk ik, tenzij je toevallig op Terschelling bent. Bellen kan"
   },
   "hello@weroad.de": {
-    "next_action": "Julian (B2B) wees af 12 mei — niet via dit kanaal: 'Anfragen niet direct hier'.",
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "replied",
-    "tone": "negative"
+    "tone": "neutral",
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": "##- Bitte geben Sie Ihre Antwort über dieser Zeile ein. -## Julian May 12, 2026 at 17:33 Hallo Joris, vielen Dank für eure Nachricht. Bitte habt aber Verständnis, dass wir solche Anfragen nicht direkt"
   },
   "info.surfscool@gmail.com": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "sent-no-reply",
-    "tone": null
-  },
-  "info@amelandadventure.nl": {
+    "tone": null,
+    "sent_date": "2026-05-12",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
-  },
-  "info@aquasports.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
-  },
-  "info@backyardsurfshop.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   },
   "info@bohemianbirds.com": {
-    "next_action": "Dilana ontving info-mail 13/5 — dialoog loopt voor lustrum/incentive-groepen. Wacht op terugkoppeling intern team.",
-    "reply_snippet": null,
-    "sent_date": "2026-04-17",
     "status": "replied",
-    "tone": "positive"
+    "tone": "positive",
+    "sent_date": "2026-05-13",
+    "next_action": "Dilana ontving info-mail 13/5 — dialoog loopt voor lustrum/incentive-groepen. Wacht op terugkoppeling intern team.",
+    "reply_snippet": "Hi Abdul, Dank voor je mail. Leuk dat je aan ons denkt. We organiseren veel naar Marokko en zie mogelijk wel wat overlap met onze doelgroep. Een belletje kan geen kwaad. Wanneer schikt dat?"
   },
   "info@bunkhouse.travel": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-04-20",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "not-mailed",
-    "tone": null
-  },
-  "info@cableparkaquabest.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   },
   "info@derm.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
     "status": "sent-no-reply",
-    "tone": null
-  },
-  "info@desurfclub.com": {
+    "tone": null,
+    "sent_date": "2026-05-11",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   },
   "info@diogenesreizen.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-04-20",
     "status": "sent-no-reply",
-    "tone": null
-  },
-  "info@flow-events.nl": {
+    "tone": null,
+    "sent_date": "2026-05-11",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
+  },
+  "info@djoser.nl": {
+    "status": "replied",
+    "tone": "auto-reply",
+    "sent_date": "2026-04-20",
+    "next_action": null,
+    "reply_snippet": "Goedendag, uw e-mail is in goede orde ontvangen en zal in behandeling worden genomen. Met vriendelijke groet, Djoser"
+  },
+  "info@exploristatravel.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-04-17",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@gosurfingterschelling.nl": {
-    "next_action": "Bellen of zoom inplannen, concreet maken wat we doen.",
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
-    "status": "replied",
-    "tone": "positive"
-  },
-  "info@hangout.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": "Bellen of zoom inplannen, concreet maken wat we doen.",
+    "reply_snippet": null
   },
   "info@happysoultravel.nl": {
-    "next_action": "Monique: nu geen ruimte, gegevens bewaard — afsluiten met optie later.",
-    "reply_snippet": null,
-    "sent_date": "2026-04-17",
     "status": "replied",
-    "tone": "negative"
+    "tone": "negative",
+    "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": "Hi Joost, Veel dank voor je mail. Op dit moment hebben we hier geen ruimte voor, maar we bewaren je gegevens heel graag. Mocht er dan een opening zijn voor een kennismaking, zullen we contact opnemen."
   },
   "info@hartbeach.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@hauser-exkursionen.de": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@hightidesurfshop.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@hookipabeach.nl": {
-    "next_action": "BBQ-datum prikken, hij was net in Marokko (Tamraght/Imsouane). Voorgesteld Zoom + zomer-koffie.",
-    "reply_snippet": null,
+    "status": "sent-no-reply",
+    "tone": null,
     "sent_date": "2026-05-11",
-    "status": "replied",
-    "tone": "positive"
+    "next_action": "BBQ-datum prikken, hij was net in Marokko (Tamraght/Imsouane). Voorgesteld Zoom + zomer-koffie.",
+    "reply_snippet": null
   },
-  "info@hsa.nl": {
+  "info@knecht-reisen.ch": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
-  },
-  "info@iksuploosdrecht.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   },
   "info@lexsurfschool.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@lustrumguru.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@mambo.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-04-20",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-04-20",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@mm-sup.com": {
-    "next_action": "Ma of wo afspraak inplannen — Calendly gestuurd, Morene wil kennismaken.",
-    "reply_snippet": null,
+    "status": "sent-no-reply",
+    "tone": null,
     "sent_date": "2026-05-11",
-    "status": "replied",
-    "tone": "positive"
-  },
-  "info@myownretreat.com": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
-  },
-  "info@nalusb.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
-  },
-  "info@noordboardstore.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "next_action": "Ma of wo afspraak inplannen — Calendly gestuurd, Morene wil kennismaken.",
+    "reply_snippet": null
   },
   "info@noordpiersurf.com": {
-    "next_action": "Susanne bevestigde Christophe-doorverwijzing. Hamza belt Christophe op het strand deze week. Wacht op terugkoppeling.",
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
     "status": "replied",
-    "tone": "positive"
+    "tone": "positive",
+    "sent_date": "2026-05-13",
+    "next_action": "Susanne bevestigde Christophe-doorverwijzing. Hamza belt Christophe op het strand deze week. Wacht op terugkoppeling.",
+    "reply_snippet": "Hoi! Chris is definitief vertrokken naar Australie. Success met jullie surfschool en retreat! Groet, Susanne Web: https://www.noordpiersurf.com/ Phone: +316 51 36 93 38 Instagram Sent with Spark On 11"
   },
   "info@nssvaeolus.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@oaktravel.nl": {
+    "status": "replied",
+    "tone": "positive",
+    "sent_date": "2026-04-20",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "not-mailed",
-    "tone": null
+    "reply_snippet": "Hoi Abdul, Dankjewel voor je update en leuk om jullie verhaal te horen! Laten we inderdaad even een meeting inplannen. Ik ben beschikbaar van maandag tot en met vrijdag tussen 11:00 en 16:00. Je kunt"
   },
-  "info@pepsports.com": {
+  "info@pasonoroeste.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
+  },
+  "info@reiseathleten.de": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@sawadee.nl": {
-    "next_action": "Joeri: niet bezig met uitbreiden — afsluiten.",
-    "reply_snippet": null,
-    "sent_date": "2026-04-20",
     "status": "replied",
-    "tone": "negative"
+    "tone": "positive",
+    "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": "Goedemorgen Abdul, Bedankt voor je bericht en je interesse in een samenwerking met Sawadee! We hebben je bericht doorgestuurd naar Joeri. Desbetreffende collega heeft het erg druk, maar reageert"
+  },
+  "info@shoestring.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-04-20",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@simi-reizen.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-04-17",
     "status": "sent-no-reply",
-    "tone": null
-  },
-  "info@soalsurf.nl": {
+    "tone": null,
+    "sent_date": "2026-05-11",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
-  },
-  "info@soulonline.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   },
   "info@spin-utrecht.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
     "status": "sent-no-reply",
-    "tone": null
-  },
-  "info@sportsatsea.nl": {
+    "tone": null,
+    "sent_date": "2026-05-11",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
-  },
-  "info@supsupclub.com": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
-  },
-  "info@supvibes.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   },
   "info@surfana.com": {
-    "next_action": "Wachten op collega-doorzending — Calendly gestuurd.",
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
     "status": "replied",
-    "tone": "neutral"
-  },
-  "info@surfclubcallantsoog.nl": {
+    "tone": "positive",
+    "sent_date": "2026-05-13",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": "Hi Joost / Abdul, Dank je wel voor jullie aanbod! Ik stuur jullie e-mail door naar mijn collega&#39;s, mocht er interesse zijn, dan komen deze in de aankomende week nog bij jullie nog terug. Laat het"
   },
   "info@surfschool-katwijk.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "sent-no-reply",
-    "tone": null
-  },
-  "info@surfschool-texel.nl": {
+    "tone": null,
+    "sent_date": "2026-05-12",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   },
   "info@surfschoolbergenaanzee.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@surfschoolcastricum.com": {
-    "next_action": "Donderdag in Castricum langs of bellen — Abdul gaf tel 0642206839.",
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
     "status": "replied",
-    "tone": "positive"
+    "tone": "positive",
+    "sent_date": "2026-05-12",
+    "next_action": "Donderdag in Castricum langs of bellen — Abdul gaf tel 0642206839.",
+    "reply_snippet": "Hoi Abdul, Bedankt voor je berichtje. Donderdag ben ik in Castricum, misschien dat je dan even langs kunt komen? Anders kan bellen ook. Met vriendelijke groet, Pieter Surfschool Castricum Kitesurfen |"
   },
   "info@surfschooldomburg.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
     "status": "sent-no-reply",
-    "tone": null
-  },
-  "info@surfschoolfoamball.com": {
+    "tone": null,
+    "sent_date": "2026-05-11",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   },
   "info@surfschoolhoekvanholland.com": {
-    "next_action": "Perry zegt nee dankt — afsluiten.",
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "replied",
-    "tone": "negative"
-  },
-  "info@surfvillage.nl": {
+    "tone": "negative",
+    "sent_date": "2026-05-12",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": "Hallo Abdul. Nee dankt. Vriendelijke groet en nog een mooie dag, Perry Hoek Tel:0648715056 www.surfschoolhoekvanholland.nl www.facebook.com/surfschoolhoekvanholland www.instagram.com/surfschoolhvh SEE"
   },
-  "info@surfzandvoort.nl": {
+  "info@topas.dk": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   },
   "info@travelaround.nl": {
-    "next_action": "Ronald: past niet meteen — afsluiten, evt re-engage volgend seizoen.",
-    "reply_snippet": null,
-    "sent_date": "2026-04-17",
     "status": "replied",
-    "tone": "negative"
+    "tone": "negative",
+    "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": "HI Joost, Ik heb het voorbij zien komen. Sorry dat ik nog niet gereageerd had. Het past niet meteen in ons programma. Taghazout is nog best een eind weg van Marrakech (daar ben ik nu overigens), waar"
+  },
+  "info@verticalife.it": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@villavibes.nl": {
-    "next_action": "Jola gaf positief signaal voor losse surftrip winter — follow-up draait.",
-    "reply_snippet": null,
+    "status": "sent-no-reply",
+    "tone": null,
     "sent_date": "2026-04-17",
-    "status": "replied",
-    "tone": "neutral"
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@wake-park.nl": {
-    "next_action": "Hannes wil GEEN online meeting — kom langs in Roermond of stuur concreet voorstel. Plan fysiek bezoek of mail samenwerkings-voorstel.",
-    "reply_snippet": "Jullie kunnen gewoon langs komen of een voorstel voor samenwerking sturen.",
-    "sent_date": "2026-05-12",
     "status": "replied",
-    "tone": "positive"
+    "tone": "positive",
+    "sent_date": "2026-05-13",
+    "next_action": "Hannes wil GEEN online meeting — kom langs in Roermond of stuur concreet voorstel.",
+    "reply_snippet": "Hoi Abdul, Tof bericht, bedankt! Lijkt me gezellig om eens kennis te maken en een kop koffie te drinken hier aan de plas. Laten we even een moment plannen. Wanneer ben je in de buurt van Roermond? Laat"
   },
   "info@weadventures.com": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-04-17",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@wildnhappytravel.com": {
-    "next_action": "Twee mails verstuurd (12 mei 12:55 + 14:21). Wachten op respons.",
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "sent-no-reply",
-    "tone": null
-  },
-  "info@windsurfschool.nl": {
+    "tone": null,
+    "sent_date": "2026-05-12",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
-  },
-  "info@wvzandvoort.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   },
   "info@zestfamily.it": {
-    "next_action": "Gianluca vroeg 12 mei direct om tarieven per persoon voor hun programma. Reply te beantwoorden.",
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
-    "status": "replied",
-    "tone": "positive"
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": "HOT: Gianluca vroeg 12 mei tarieven per persoon — reply staat sinds 12 mei 14:52 te wachten.",
+    "reply_snippet": null
   },
-  "jurjen@boardshortz.nl": {
+  "infos@terdav.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
+  },
+  "infotuareg@tuareg.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "iwannasurf@surfakademin.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "joris.merkx@agyle.nl": {
+    "status": "replied",
+    "tone": "positive",
+    "sent_date": "2026-05-13",
+    "next_action": null,
+    "reply_snippet": "________________________________________________________________________________ Microsoft Teams-vergadering Deelnemen: https://teams.microsoft.com/meet/393792766528357?p=OkoXj0aWQONPsxe3CG Vergadering"
+  },
+  "kontakt@femicamp.pl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "kontakt@nelsol.pl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
   },
   "lotje@lotoflife.nl": {
-    "next_action": "Onderweg — Work Your Light retreat 10-16 mei. Daarna opnieuw pingen.",
-    "reply_snippet": null,
-    "sent_date": "2026-04-17",
     "status": "replied",
-    "tone": "auto-reply"
-  },
-  "natasha@tashasurfcamp.com": {
+    "tone": "auto-reply",
+    "sent_date": "2026-05-11",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": "Lieve lezer, Van 10 tot en met 16 mei ben ik per mail onbereikbaar om het Work Your Light retreat te begeleiden. Daardoor ben ik niet in de gelegenheid om jouw bericht gelijk te beantwoorden. Voor info"
   },
-  "nienke@quiksilversurfschool.nl": {
+  "morene@mac.com": {
+    "status": "replied",
+    "tone": "positive",
+    "sent_date": "2026-05-13",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": "Hi Abul Altijd leuk. Mijn scholen zijn niet meer actief wel zelf nog wel aan suppen en afgelopen winter surfen weer opgepakt. Ik ben maandag en woensdag vrij of keer andere dag einde van de dag ergens"
   },
-  "noordzeeboardstore@gmail.com": {
+  "obpr@derm.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-11",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   },
   "ouddorp@surfkaravaan.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "pr@spin-utrecht.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": null
   },
   "reizenopmaat@srctravel.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-04-17",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "reservas@takeoffsurftravel.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "richard@djus.nl": {
+    "status": "replied",
+    "tone": "positive",
+    "sent_date": "2026-05-13",
+    "next_action": null,
+    "reply_snippet": "Hoi Abdul, Dat is ook toevallig, we zijn net terug van een tripje Marokko met het gezin. 3 dagen Tamraght weekje Imsuoane 6 dagen Mirlift Van de zomer, of in het najaar, nodig ik je graag uit voor een"
+  },
+  "service@traveljunkies.tours": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
   },
   "stokedmaastricht@outlook.com": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": null
   },
   "suplimburg@gmail.com": {
-    "next_action": "WE ARE CLOSED — later in seizoen opnieuw proberen.",
-    "reply_snippet": null,
-    "sent_date": "2026-05-12",
     "status": "replied",
-    "tone": "auto-reply"
+    "tone": "auto-reply",
+    "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": "Aloha! 🏄🏻‍♀️ Wij zijn gesloten / WE ARE CLOSED Bedankt voor je bericht. Wij gaan dit jaar later open dan normaal en daarom nemen wij op dit moment (nog) geen boekingen aan. Houd onze socials in de"
   },
   "support@kaaimanreizen.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-04-20",
     "status": "sent-no-reply",
-    "tone": null
-  },
-  "surfschool@alohasurf.nl": {
+    "tone": null,
+    "sent_date": "2026-05-11",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   },
   "surfschool@dehangout.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": "2026-05-11",
     "status": "sent-no-reply",
-    "tone": null
+    "tone": null,
+    "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": null
   },
   "travel@villavibes.nl": {
-    "next_action": "Jola gaf positief signaal voor losse surftrip winter — follow-up draait.",
-    "reply_snippet": null,
-    "sent_date": "2026-04-20",
     "status": "replied",
-    "tone": "neutral"
-  },
-  "vicevoorzitter@jumpteam.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
-  },
-  "voorzitter@plankenkoorts.com": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
-  },
-  "voorzitter@spin-utrecht.nl": {
-    "next_action": null,
-    "reply_snippet": null,
+    "tone": "positive",
     "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": "Goedemorgen Abdul, Bedankt voor je bericht, leuk om te lezen wat jullie hebben opgezet. Mijn naam is Jola, ik werk op de inkoopafdeling van VillaVibes. We zijn inderdaad actief in Marokko, waar we"
+  },
+  "wildandfreeadventures@gmail.com": {
     "status": "sent-no-reply",
-    "tone": null
-  },
-  "watersports@mifune.nl": {
+    "tone": null,
+    "sent_date": "2026-05-12",
     "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
-  },
-  "yannick@canalsup.nl": {
-    "next_action": null,
-    "reply_snippet": null,
-    "sent_date": null,
-    "status": "draft-pending",
-    "tone": null
+    "reply_snippet": null
   }
 }
