@@ -265,6 +265,8 @@ def merge_with_manual_overrides(auto_status, manual_path):
         return auto_status
 
     for email, overrides in manual.items():
+        if not isinstance(overrides, dict):
+            continue  # skip _comment and other non-override keys
         email = email.lower()
         auto_status.setdefault(email, {
             "status": "not-mailed",
