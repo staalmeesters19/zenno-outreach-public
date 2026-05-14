@@ -97,6 +97,13 @@
     "next_action": null,
     "reply_snippet": null
   },
+  "frieda@supawayheerenveen.nl": {
+    "status": "replied",
+    "tone": "bounce",
+    "sent_date": "2026-05-14",
+    "next_action": "EMAIL BOUNCE — adres bestaat niet of mailbox vol.",
+    "reply_snippet": "Address not found Your message wasn&#39;t delivered to frieda@supawayheerenveen.nl because the address couldn&#39;t be found, or is unable to receive mail. The response from the remote server was: 550"
+  },
   "gianluca.iametti@zestfamily.it": {
     "status": "replied",
     "tone": "neutral",
@@ -125,6 +132,20 @@
     "next_action": null,
     "reply_snippet": null
   },
+  "info@amelandadventure.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@aquasports.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
   "info@bohemianbirds.com": {
     "status": "replied",
     "tone": "positive",
@@ -139,10 +160,24 @@
     "next_action": null,
     "reply_snippet": null
   },
+  "info@cableparkaquabest.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
   "info@derm.nl": {
     "status": "sent-no-reply",
     "tone": null,
     "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@desurfclub.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
     "next_action": null,
     "reply_snippet": null
   },
@@ -209,6 +244,20 @@
     "next_action": "BBQ-datum prikken, hij was net in Marokko (Tamraght/Imsouane). Voorgesteld Zoom + zomer-koffie.",
     "reply_snippet": null
   },
+  "info@hsa.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@iksuploosdrecht.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
   "info@knecht-reisen.ch": {
     "status": "sent-no-reply",
     "tone": null,
@@ -244,6 +293,20 @@
     "next_action": "Ma of wo afspraak inplannen — Calendly gestuurd, Morene wil kennismaken.",
     "reply_snippet": null
   },
+  "info@nalusb.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@noordboardstore.nl": {
+    "status": "replied",
+    "tone": "bounce",
+    "sent_date": "2026-05-14",
+    "next_action": "EMAIL BOUNCE — adres bestaat niet of mailbox vol.",
+    "reply_snippet": "Address not found Your message wasn&#39;t delivered to info@noordboardstore.nl because the domain noordboardstore.nl couldn&#39;t be found. Check for typos or unnecessary spaces and try again. LEARN"
+  },
   "info@noordpiersurf.com": {
     "status": "replied",
     "tone": "positive",
@@ -269,6 +332,13 @@
     "status": "sent-no-reply",
     "tone": null,
     "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@pepsports.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
     "next_action": null,
     "reply_snippet": null
   },
@@ -300,12 +370,40 @@
     "next_action": null,
     "reply_snippet": null
   },
+  "info@soalsurf.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@soulonline.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
   "info@spin-utrecht.nl": {
     "status": "sent-no-reply",
     "tone": null,
     "sent_date": "2026-05-11",
     "next_action": null,
     "reply_snippet": null
+  },
+  "info@sportsatsea.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@supvibes.nl": {
+    "status": "replied",
+    "tone": "bounce",
+    "sent_date": "2026-05-14",
+    "next_action": "EMAIL BOUNCE — adres bestaat niet of mailbox vol.",
+    "reply_snippet": "Address not found Your message wasn&#39;t delivered to info@supvibes.nl because the domain supvibes.nl couldn&#39;t be found. Check for typos or unnecessary spaces and try again. LEARN MORE The"
   },
   "info@surfana.com": {
     "status": "replied",
@@ -314,10 +412,24 @@
     "next_action": null,
     "reply_snippet": "Hi Joost / Abdul, Dank je wel voor jullie aanbod! Ik stuur jullie e-mail door naar mijn collega&#39;s, mocht er interesse zijn, dan komen deze in de aankomende week nog bij jullie nog terug. Laat het"
   },
+  "info@surfclubcallantsoog.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
   "info@surfschool-katwijk.nl": {
     "status": "sent-no-reply",
     "tone": null,
     "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@surfschool-texel.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
     "next_action": null,
     "reply_snippet": null
   },
@@ -348,6 +460,20 @@
     "sent_date": "2026-05-12",
     "next_action": null,
     "reply_snippet": "Hallo Abdul. Nee dankt. Vriendelijke groet en nog een mooie dag, Perry Hoek Tel:0648715056 www.surfschoolhoekvanholland.nl www.facebook.com/surfschoolhoekvanholland www.instagram.com/surfschoolhvh SEE"
+  },
+  "info@surfvillage.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@surfzandvoort.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
   },
   "info@topas.dk": {
     "status": "sent-no-reply",
@@ -395,6 +521,20 @@
     "status": "sent-no-reply",
     "tone": null,
     "sent_date": "2026-05-12",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@windsurfschool.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@wvzandvoort.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
     "next_action": null,
     "reply_snippet": null
   },
@@ -460,6 +600,13 @@
     "sent_date": "2026-05-13",
     "next_action": null,
     "reply_snippet": "Hi Abul Altijd leuk. Mijn scholen zijn niet meer actief wel zelf nog wel aan suppen en afgelopen winter surfen weer opgepakt. Ik ben maandag en woensdag vrij of keer andere dag einde van de dag ergens"
+  },
+  "natasha@tashasurfcamp.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
   },
   "obpr@derm.nl": {
     "status": "sent-no-reply",
@@ -531,6 +678,13 @@
     "next_action": null,
     "reply_snippet": null
   },
+  "surfschool@alohasurf.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
   "surfschool@dehangout.nl": {
     "status": "sent-no-reply",
     "tone": null,
@@ -545,11 +699,25 @@
     "next_action": null,
     "reply_snippet": "Goedemorgen Abdul, Bedankt voor je bericht, leuk om te lezen wat jullie hebben opgezet. Mijn naam is Jola, ik werk op de inkoopafdeling van VillaVibes. We zijn inderdaad actief in Marokko, waar we"
   },
+  "watersports@mifune.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
   "wildandfreeadventures@gmail.com": {
     "status": "sent-no-reply",
     "tone": null,
     "sent_date": "2026-05-12",
     "next_action": null,
     "reply_snippet": null
+  },
+  "yannick@canalsup.nl": {
+    "status": "replied",
+    "tone": "positive",
+    "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": "Ha Joost, Leuk mailtje, maar ik ben bezig met Canal SUP verkopen. Als je toevallig interesse hebt, hit me up! Cheers, Yannick Rentier | Canal SUP yannick@canalsup.nl +31 6 45 028 142 www.canalsup.nl"
   }
 }
