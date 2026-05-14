@@ -310,7 +310,7 @@
   "info@noordpiersurf.com": {
     "status": "replied",
     "tone": "positive",
-    "sent_date": "2026-05-13",
+    "sent_date": "2026-05-14",
     "next_action": "Susanne bevestigde Christophe-doorverwijzing. Hamza belt Christophe op het strand deze week. Wacht op terugkoppeling.",
     "reply_snippet": "Hoi! Chris is definitief vertrokken naar Australie. Success met jullie surfschool en retreat! Groet, Susanne Web: https://www.noordpiersurf.com/ Phone: +316 51 36 93 38 Instagram Sent with Spark On 11"
   },
@@ -700,11 +700,11 @@
     "reply_snippet": "Goedemorgen Abdul, Bedankt voor je bericht, leuk om te lezen wat jullie hebben opgezet. Mijn naam is Jola, ik werk op de inkoopafdeling van VillaVibes. We zijn inderdaad actief in Marokko, waar we"
   },
   "watersports@mifune.nl": {
-    "status": "sent-no-reply",
-    "tone": null,
+    "status": "replied",
+    "tone": "neutral",
     "sent_date": "2026-05-14",
     "next_action": null,
-    "reply_snippet": null
+    "reply_snippet": "Hi Abdul, Dank voor je mail, kan jij aangeven wat wij voor jullie zouden kunnen betekenen? Groet Etienne Mifune Watersports Joost van Alphen schreef op 2026-05-14 12:51: &gt; Hoi team, &gt; &gt; IKO-"
   },
   "wildandfreeadventures@gmail.com": {
     "status": "sent-no-reply",
