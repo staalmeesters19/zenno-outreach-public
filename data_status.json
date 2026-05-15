@@ -462,11 +462,11 @@
     "reply_snippet": null
   },
   "info@surfschool-texel.nl": {
-    "status": "sent-no-reply",
-    "tone": null,
+    "status": "replied",
+    "tone": "positive",
     "sent_date": "2026-05-14",
     "next_action": null,
-    "reply_snippet": null
+    "reply_snippet": "Hey Joost, Wat leuk dat jullie ook zo veel passie hebben voor surfen en voor het surfen in Marokko. Prachtig daar. Wij hebben vorig jaar een trip gedaan naar de Canarische eilanden maar gaan nu"
   },
   "info@surfschoolbergenaanzee.nl": {
     "status": "sent-no-reply",
@@ -490,11 +490,11 @@
     "reply_snippet": null
   },
   "info@surfschoolfoamball.com": {
-    "status": "sent-no-reply",
-    "tone": null,
+    "status": "replied",
+    "tone": "positive",
     "sent_date": "2026-05-15",
     "next_action": null,
-    "reply_snippet": null
+    "reply_snippet": "Hi Joost en Abdul, Thanks voor jullie bericht. Ziet er leuk uit. We hebben alleen op dit moment het paviljoen naast ons gekocht en zijn daar erg druk aan het werk. Ik zet je mail even door naar onze"
   },
   "info@surfschoolhoekvanholland.com": {
     "status": "replied",
@@ -511,11 +511,11 @@
     "reply_snippet": null
   },
   "info@surfzandvoort.nl": {
-    "status": "sent-no-reply",
-    "tone": null,
+    "status": "replied",
+    "tone": "bounce",
     "sent_date": "2026-05-14",
-    "next_action": null,
-    "reply_snippet": null
+    "next_action": "EMAIL BOUNCE — adres bestaat niet of mailbox vol.",
+    "reply_snippet": "Delivery incomplete There was a temporary problem delivering your message to info@surfzandvoort.nl. Gmail will retry for 45 more hours. You&#39;ll be notified if the delivery fails permanently. The"
   },
   "info@topas.dk": {
     "status": "sent-no-reply",
