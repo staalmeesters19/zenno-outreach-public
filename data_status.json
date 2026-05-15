@@ -76,6 +76,13 @@
     "next_action": null,
     "reply_snippet": null
   },
+  "contact@brunottisurfcamps.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-15",
+    "next_action": null,
+    "reply_snippet": null
+  },
   "contact@copinesdevoyage.com": {
     "status": "sent-no-reply",
     "tone": null,
@@ -146,6 +153,13 @@
     "next_action": null,
     "reply_snippet": null
   },
+  "info@backyardsurfshop.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-15",
+    "next_action": null,
+    "reply_snippet": null
+  },
   "info@bohemianbirds.com": {
     "status": "replied",
     "tone": "positive",
@@ -199,6 +213,13 @@
     "status": "sent-no-reply",
     "tone": null,
     "sent_date": "2026-04-17",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@flow-events.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-15",
     "next_action": null,
     "reply_snippet": null
   },
@@ -293,6 +314,13 @@
     "next_action": "Ma of wo afspraak inplannen — Calendly gestuurd, Morene wil kennismaken.",
     "reply_snippet": null
   },
+  "info@myownretreat.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-15",
+    "next_action": null,
+    "reply_snippet": null
+  },
   "info@nalusb.nl": {
     "status": "sent-no-reply",
     "tone": null,
@@ -336,11 +364,11 @@
     "reply_snippet": null
   },
   "info@pepsports.com": {
-    "status": "sent-no-reply",
-    "tone": null,
+    "status": "replied",
+    "tone": "positive",
     "sent_date": "2026-05-14",
     "next_action": null,
-    "reply_snippet": null
+    "reply_snippet": "Hoi Joost, Zeker leuk om een keer te Zoomen met elkaar! Wij hebben wel interesse om het eea met elkaar op poten te zetten, surftrips naar het buitenland is iets war we al langer mee spelen. Ik plan"
   },
   "info@reiseathleten.de": {
     "status": "sent-no-reply",
@@ -398,6 +426,13 @@
     "next_action": null,
     "reply_snippet": null
   },
+  "info@supsupclub.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-15",
+    "next_action": null,
+    "reply_snippet": null
+  },
   "info@supvibes.nl": {
     "status": "replied",
     "tone": "bounce",
@@ -451,6 +486,13 @@
     "status": "sent-no-reply",
     "tone": null,
     "sent_date": "2026-05-11",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "info@surfschoolfoamball.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-15",
     "next_action": null,
     "reply_snippet": null
   },
@@ -573,6 +615,13 @@
     "next_action": null,
     "reply_snippet": "________________________________________________________________________________ Microsoft Teams-vergadering Deelnemen: https://teams.microsoft.com/meet/393792766528357?p=OkoXj0aWQONPsxe3CG Vergadering"
   },
+  "jurjen@boardshortz.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-15",
+    "next_action": null,
+    "reply_snippet": null
+  },
   "kontakt@femicamp.pl": {
     "status": "sent-no-reply",
     "tone": null,
@@ -605,6 +654,20 @@
     "status": "sent-no-reply",
     "tone": null,
     "sent_date": "2026-05-14",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "nienke@quiksilversurfschool.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-15",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "noordzeeboardstore@gmail.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-15",
     "next_action": null,
     "reply_snippet": null
   },
@@ -698,6 +761,20 @@
     "sent_date": "2026-05-11",
     "next_action": null,
     "reply_snippet": "Goedemorgen Abdul, Bedankt voor je bericht, leuk om te lezen wat jullie hebben opgezet. Mijn naam is Jola, ik werk op de inkoopafdeling van VillaVibes. We zijn inderdaad actief in Marokko, waar we"
+  },
+  "vicevoorzitter@jumpteam.nl": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-15",
+    "next_action": null,
+    "reply_snippet": null
+  },
+  "voorzitter@plankenkoorts.com": {
+    "status": "sent-no-reply",
+    "tone": null,
+    "sent_date": "2026-05-15",
+    "next_action": null,
+    "reply_snippet": null
   },
   "watersports@mifune.nl": {
     "status": "replied",
